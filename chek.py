@@ -1,1 +1,3 @@
-print("Файл для клонирования репозитория")
+print("This is a file from GitHub repository")
+
+print("There are new local changes")
