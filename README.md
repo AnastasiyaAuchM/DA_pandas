@@ -1,1 +1,1 @@
-# my_study_repository
+# my_attempts
